@@ -1,7 +1,7 @@
 <p align="center"><img src="https://cdn.discordapp.com/attachments/968592701006180392/970422495280758824/unknown.png" height="200">
 </p>
 
-<h1 align="center">Lucid Proxy</h1>
+<h1 align="center">Ethan's Unblocker</h1>
 
 <p align="center">An open-source proxy using the Ultraviolet backend by TN, Lucids purpose is to end internet censorship.<br><br></p>
 
